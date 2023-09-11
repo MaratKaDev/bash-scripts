@@ -1,3 +1,2 @@
 # bash-scripts
-
-test
+Bash скрипты
